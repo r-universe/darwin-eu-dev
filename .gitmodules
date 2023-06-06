@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "PatientProfiles"]
+	path = PatientProfiles
+	url = https://github.com/darwin-eu-dev/patientprofiles
+	shallow = true
+	registered = true
