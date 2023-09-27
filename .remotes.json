@@ -1,0 +1,8 @@
+[
+  {
+    "package": "PatientProfiles",
+    "url": "https://github.com/darwin-eu-dev/PatientProfiles",
+    "via": ["DrugUtilisation"],
+    "from": "DrugUtilisation"
+  }
+]
