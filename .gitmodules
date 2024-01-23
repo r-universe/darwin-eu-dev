@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "CodelistGenerator"]
+	path = CodelistGenerator
+	url = https://github.com/darwin-eu/CodelistGenerator
+	registered = false
 [submodule "DrugUtilisation"]
 	path = DrugUtilisation
 	url = https://github.com/darwin-eu-dev/drugutilisation

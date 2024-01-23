@@ -1,0 +1,8 @@
+[
+  {
+    "package": "CodelistGenerator",
+    "url": "https://github.com/darwin-eu/CodelistGenerator",
+    "via": ["PatientProfiles"],
+    "from": "PatientProfiles"
+  }
+]
