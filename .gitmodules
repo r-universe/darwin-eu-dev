@@ -11,6 +11,9 @@
 [submodule "PatientProfiles"]
 	path = PatientProfiles
 	url = https://github.com/darwin-eu-dev/patientprofiles
+[submodule "TestGenerator"]
+	path = TestGenerator
+	url = https://github.com/darwin-eu-dev/testgenerator
 [submodule "TreatmentPatterns"]
 	path = TreatmentPatterns
 	url = https://github.com/darwin-eu-dev/treatmentpatterns
