@@ -1,11 +1,5 @@
 [
   {
-    "package": "omopgenerics",
-    "url": "https://github.com/darwin-eu-dev/omopgenerics",
-    "via": ["PatientProfiles", "visOmopResults"],
-    "from": "PatientProfiles"
-  },
-  {
     "package": "visOmopResults",
     "url": "https://github.com/oxford-pharmacoepi/visOmopResults",
     "via": ["PatientProfiles"],
