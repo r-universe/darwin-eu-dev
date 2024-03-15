@@ -1,8 +1,0 @@
-[
-  {
-    "package": "visOmopResults",
-    "url": "https://github.com/oxford-pharmacoepi/visOmopResults",
-    "via": ["PatientProfiles"],
-    "from": "PatientProfiles"
-  }
-]
