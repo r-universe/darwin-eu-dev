@@ -1,0 +1,14 @@
+[
+  {
+    "package": "omopgenerics",
+    "url": "https://github.com/darwin-eu-dev/omopgenerics",
+    "via": ["CohortCharacteristics", "visOmopResults"],
+    "from": "CohortCharacteristics"
+  },
+  {
+    "package": "visOmopResults",
+    "url": "https://github.com/oxford-pharmacoepi/visOmopResults",
+    "via": ["CohortCharacteristics"],
+    "from": "CohortCharacteristics"
+  }
+]
