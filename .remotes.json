@@ -1,5 +1,11 @@
 [
   {
+    "package": "CDMConnector",
+    "url": "https://github.com/darwin-eu/CDMConnector",
+    "via": ["CohortCharacteristics"],
+    "from": "CohortCharacteristics"
+  },
+  {
     "package": "omopgenerics",
     "url": "https://github.com/darwin-eu-dev/omopgenerics",
     "via": ["CohortCharacteristics", "visOmopResults"],
