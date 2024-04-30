@@ -6,15 +6,33 @@
     "from": "CohortCharacteristics"
   },
   {
+    "package": "CDMConnector",
+    "url": "https://github.com/darwin-eu/CDMConnector",
+    "via": ["PatientProfiles"],
+    "from": "PatientProfiles"
+  },
+  {
     "package": "omopgenerics",
     "url": "https://github.com/darwin-eu-dev/omopgenerics",
     "via": ["CohortCharacteristics", "visOmopResults"],
     "from": "CohortCharacteristics"
   },
   {
+    "package": "omopgenerics",
+    "url": "https://github.com/darwin-eu-dev/omopgenerics",
+    "via": ["PatientProfiles"],
+    "from": "PatientProfiles"
+  },
+  {
     "package": "visOmopResults",
     "url": "https://github.com/darwin-eu/visOmopResults",
     "via": ["CohortCharacteristics"],
     "from": "CohortCharacteristics"
+  },
+  {
+    "package": "visOmopResults",
+    "url": "https://github.com/darwin-eu/visOmopResults",
+    "via": ["PatientProfiles"],
+    "from": "PatientProfiles"
   }
 ]
