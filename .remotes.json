@@ -14,7 +14,7 @@
   {
     "package": "omopgenerics",
     "url": "https://github.com/darwin-eu-dev/omopgenerics",
-    "via": ["CohortCharacteristics", "visOmopResults"],
+    "via": ["CohortCharacteristics"],
     "from": "CohortCharacteristics"
   },
   {
