@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "CohortCharacteristics"]
-	path = CohortCharacteristics
-	url = https://github.com/darwin-eu-dev/cohortcharacteristics
 [submodule "DrugUtilisation"]
 	path = DrugUtilisation
 	url = https://github.com/darwin-eu-dev/drugutilisation
