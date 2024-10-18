@@ -8,9 +8,6 @@
 [submodule "DrugUtilisation"]
 	path = DrugUtilisation
 	url = https://github.com/darwin-eu-dev/drugutilisation
-[submodule "PaRe"]
-	path = PaRe
-	url = https://github.com/darwin-eu-dev/pare
 [submodule "PatientProfiles"]
 	path = PatientProfiles
 	url = https://github.com/darwin-eu-dev/patientprofiles
